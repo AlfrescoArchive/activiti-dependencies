@@ -6,13 +6,13 @@
   <parent>
     <groupId>org.activiti.build</groupId>
     <artifactId>activiti-parent</artifactId>
-    <version>7.1.14</version>
+    <version>7.1.0.M3.RC0</version>
     <relativePath/>
   </parent>
   
   <groupId>org.activiti.dependencies</groupId>
   <artifactId>activiti-dependencies-parent</artifactId>
-  <version>7.1.45</version>
+  <version>7.1.0.M3.RC0</version>
   <packaging>pom</packaging>
   <name>Activiti :: BOM (Bill of Materials) Parent</name>
   <description>${project.name}</description>
@@ -20,10 +20,10 @@
   <inceptionYear>2018</inceptionYear>
 
   <properties>
-    <activiti-build.version>7.1.14</activiti-build.version>
-    <activiti-api.version>7.1.31</activiti-api.version>
-    <activiti-core-common.version>7.1.32</activiti-core-common.version> 
-    <activiti.version>7.1.54</activiti.version>
+    <activiti-build.version>7.1.0.M3.RC0</activiti-build.version>
+    <activiti-api.version>7.1.0.M3.RC0</activiti-api.version>
+    <activiti-core-common.version>7.1.0.M3.RC0</activiti-core-common.version> 
+    <activiti.version>7.1.0.M3.RC0</activiti.version>
   </properties>
 
   <organization>
